@@ -83,20 +83,20 @@
   {
     "id": 10,
     "title": "SEXY",
-    "artist": "Oddity",
+    "artist": "Odelly",
     "duration": "?:??",
     "bpm": 96,
     "tags": ["modern", "luxury"],
-    "previewUrl": "/Oddity - SEXY.wav"
+    "previewUrl": "/Odelly - SEXY.wav"
   },
   {
     "id": 11,
-    "title": "Park Avenue",
+    "title": "Ocean Avenue",
     "artist": "Paper Planes",
     "duration": "?:??",
     "bpm": 78,
     "tags": ["luxury", "cinematic"],
-    "previewUrl": "/Paper Planes - Park Avenue.wav"
+    "previewUrl": "/Paper Planes - Ocean Avenue.wav"
   },
   {
     "id": 12,
@@ -114,7 +114,7 @@
     "duration": "?:??",
     "bpm": 82,
     "tags": ["warm", "upbeat"],
-    "previewUrl": "/Semo - Calpirinha.wav"
+    "previewUrl": "/Semo - Caipirinha.wav"
   },
   {
     "id": 14,
