@@ -15,8 +15,8 @@
     "id": 2,
     "title": "Go Down",
     "artist": "BLAGE",
-    "duration": "2:39",
-    "bpm": 90,
+    "duration": "0:03",
+    "bpm": 136,
     "tags": [
       "upbeat",
       "modern"
@@ -27,8 +27,8 @@
     "id": 3,
     "title": "End Down",
     "artist": "Captain Joz",
-    "duration": "0:12",
-    "bpm": 80,
+    "duration": "0:03",
+    "bpm": 151,
     "tags": [
       "upbeat",
       "modern"
@@ -39,8 +39,8 @@
     "id": 4,
     "title": "Dulce de Leche",
     "artist": "DJ-Malka",
-    "duration": "0:19",
-    "bpm": 95,
+    "duration": "0:03",
+    "bpm": 101,
     "tags": [
       "upbeat",
       "modern"
@@ -51,8 +51,8 @@
     "id": 5,
     "title": "Reminiscence",
     "artist": "FableForte",
-    "duration": "0:55",
-    "bpm": 68,
+    "duration": "0:03",
+    "bpm": 169,
     "tags": [
       "cinematic",
       "luxury"
@@ -63,8 +63,8 @@
     "id": 6,
     "title": "Come Again",
     "artist": "feinsmecker",
-    "duration": "0:45",
-    "bpm": 85,
+    "duration": "0:03",
+    "bpm": 123,
     "tags": [
       "warm",
       "upbeat"
@@ -75,8 +75,8 @@
     "id": 7,
     "title": "Damn Thats Crazy",
     "artist": "Flint",
-    "duration": "0:56",
-    "bpm": 100,
+    "duration": "0:02",
+    "bpm": 180,
     "tags": [
       "cinematic",
       "modern"
@@ -87,8 +87,8 @@
     "id": 8,
     "title": "Funky Golden Sun",
     "artist": "Jimit",
-    "duration": "1:55",
-    "bpm": 88,
+    "duration": "0:03",
+    "bpm": 151,
     "tags": [
       "upbeat",
       "warm"
@@ -99,8 +99,8 @@
     "id": 9,
     "title": "Fall for the Rhythm",
     "artist": "O P Baron feat. The Hazelnuts",
-    "duration": "3:08",
-    "bpm": 92,
+    "duration": "0:03",
+    "bpm": 109,
     "tags": [
       "upbeat",
       "warm",
@@ -113,8 +113,8 @@
     "id": 10,
     "title": "SEXY",
     "artist": "Odelly",
-    "duration": "2:11",
-    "bpm": 96,
+    "duration": "0:03",
+    "bpm": 186,
     "tags": [
       "modern",
       "luxury",
@@ -126,8 +126,8 @@
     "id": 11,
     "title": "Ocean Avenue",
     "artist": "Paper Planes",
-    "duration": "0:44",
-    "bpm": 78,
+    "duration": "0:03",
+    "bpm": 98,
     "tags": [
       "cinematic",
       "calm",
@@ -139,8 +139,8 @@
     "id": 12,
     "title": "Windbird",
     "artist": "Roie Shpigler",
-    "duration": "0:52",
-    "bpm": 65,
+    "duration": "0:02",
+    "bpm": 136,
     "tags": [
       "cinematic",
       "warm"
@@ -151,8 +151,8 @@
     "id": 13,
     "title": "Calpirinha",
     "artist": "Semo",
-    "duration": "3:18",
-    "bpm": 82,
+    "duration": "0:03",
+    "bpm": 170,
     "tags": [
       "warm",
       "upbeat"
@@ -163,7 +163,7 @@
     "id": 14,
     "title": "Martha",
     "artist": "Swirling Ship",
-    "duration": "0:48",
+    "duration": "0:03",
     "bpm": 70,
     "tags": [
       "calm",
@@ -176,8 +176,8 @@
     "id": 15,
     "title": "Buss It",
     "artist": "Yarin Primak",
-    "duration": "0:18",
-    "bpm": 98,
+    "duration": "0:02",
+    "bpm": 136,
     "tags": [
       "modern",
       "upbeat"
@@ -188,8 +188,8 @@
     "id": 16,
     "title": "DREEEAAAMS",
     "artist": "Yarin Primak",
-    "duration": "2:46",
-    "bpm": 72,
+    "duration": "0:02",
+    "bpm": 180,
     "tags": [
       "upbeat",
       "modern",
@@ -201,8 +201,8 @@
     "id": 17,
     "title": "SIREN",
     "artist": "Ziskoe",
-    "duration": "2:34",
-    "bpm": 105,
+    "duration": "0:02",
+    "bpm": 141,
     "tags": [
       "modern",
       "upbeat"
