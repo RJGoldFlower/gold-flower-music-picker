@@ -3,153 +3,204 @@
     "id": 1,
     "title": "All That Matters",
     "artist": "Assaf Ayalon",
-    "duration": "?:??",
+    "duration": "0:46",
     "bpm": 75,
-    "tags": ["cinematic", "warm"],
+    "tags": [
+      "modern",
+      "upbeat"
+    ],
     "previewUrl": "/Assaf Ayalon - All That Matters - Short version.wav"
   },
   {
     "id": 2,
     "title": "Go Down",
     "artist": "BLAGE",
-    "duration": "?:??",
+    "duration": "2:39",
     "bpm": 90,
-    "tags": ["upbeat", "modern"],
+    "tags": [
+      "upbeat",
+      "modern"
+    ],
     "previewUrl": "/BLAGE - Go Down.wav"
   },
   {
     "id": 3,
     "title": "End Down",
     "artist": "Captain Joz",
-    "duration": "?:??",
+    "duration": "0:12",
     "bpm": 80,
-    "tags": ["calm", "cinematic"],
+    "tags": [
+      "calm",
+      "cinematic"
+    ],
     "previewUrl": "/Captain Joz - End Down - Loop.wav"
   },
   {
     "id": 4,
     "title": "Dulce de Leche",
     "artist": "DJ-Malka",
-    "duration": "?:??",
+    "duration": "0:19",
     "bpm": 95,
-    "tags": ["warm", "upbeat"],
+    "tags": [
+      "warm",
+      "upbeat"
+    ],
     "previewUrl": "/DJ-Malka - Dulce de Leche - Loop.wav"
   },
   {
     "id": 5,
     "title": "Reminiscence",
     "artist": "FableForte",
-    "duration": "?:??",
+    "duration": "0:55",
     "bpm": 68,
-    "tags": ["cinematic", "calm"],
+    "tags": [
+      "cinematic",
+      "calm"
+    ],
     "previewUrl": "/FableForte - Reminiscence - Short version.wav"
   },
   {
     "id": 6,
     "title": "Come Again",
     "artist": "feinsmecker",
-    "duration": "?:??",
+    "duration": "0:45",
     "bpm": 85,
-    "tags": ["warm", "upbeat"],
+    "tags": [
+      "warm",
+      "upbeat"
+    ],
     "previewUrl": "/feinsmecker - Come Again.wav"
   },
   {
     "id": 7,
     "title": "Damn Thats Crazy",
     "artist": "Flint",
-    "duration": "?:??",
+    "duration": "0:56",
     "bpm": 100,
-    "tags": ["modern", "upbeat"],
+    "tags": [
+      "modern",
+      "upbeat"
+    ],
     "previewUrl": "/Flint - damn thats crazy - Alternative version.wav"
   },
   {
     "id": 8,
     "title": "Funky Golden Sun",
     "artist": "Jimit",
-    "duration": "?:??",
+    "duration": "1:55",
     "bpm": 88,
-    "tags": ["upbeat", "warm"],
+    "tags": [
+      "upbeat",
+      "warm"
+    ],
     "previewUrl": "/Jimit - Funky Golden Sun.wav"
   },
   {
     "id": 9,
     "title": "Fall for the Rhythm",
     "artist": "O P Baron feat. The Hazelnuts",
-    "duration": "?:??",
+    "duration": "3:08",
     "bpm": 92,
-    "tags": ["upbeat", "modern"],
+    "tags": [
+      "upbeat",
+      "modern"
+    ],
     "previewUrl": "/O P Baron - Fall for the Rhythm feat The Hazelnuts.wav"
   },
   {
     "id": 10,
     "title": "SEXY",
     "artist": "Odelly",
-    "duration": "?:??",
+    "duration": "2:11",
     "bpm": 96,
-    "tags": ["modern", "luxury"],
+    "tags": [
+      "modern",
+      "luxury"
+    ],
     "previewUrl": "/Odelly - SEXY.wav"
   },
   {
     "id": 11,
     "title": "Ocean Avenue",
     "artist": "Paper Planes",
-    "duration": "?:??",
+    "duration": "0:44",
     "bpm": 78,
-    "tags": ["luxury", "cinematic"],
+    "tags": [
+      "luxury",
+      "cinematic"
+    ],
     "previewUrl": "/Paper Planes - Ocean Avenue.wav"
   },
   {
     "id": 12,
     "title": "Windbird",
     "artist": "Roie Shpigler",
-    "duration": "?:??",
+    "duration": "0:52",
     "bpm": 65,
-    "tags": ["calm", "cinematic"],
+    "tags": [
+      "calm",
+      "cinematic"
+    ],
     "previewUrl": "/Roie Shpigler - Windbird - Short version b.wav"
   },
   {
     "id": 13,
     "title": "Calpirinha",
     "artist": "Semo",
-    "duration": "?:??",
+    "duration": "3:18",
     "bpm": 82,
-    "tags": ["warm", "upbeat"],
+    "tags": [
+      "warm",
+      "upbeat"
+    ],
     "previewUrl": "/Semo - Caipirinha.wav"
   },
   {
     "id": 14,
     "title": "Martha",
     "artist": "Swirling Ship",
-    "duration": "?:??",
+    "duration": "0:48",
     "bpm": 70,
-    "tags": ["calm", "warm"],
+    "tags": [
+      "calm",
+      "warm"
+    ],
     "previewUrl": "/Swirling Ship - Martha.wav"
   },
   {
     "id": 15,
     "title": "Buss It",
     "artist": "Yarin Primak",
-    "duration": "?:??",
+    "duration": "0:18",
     "bpm": 98,
-    "tags": ["modern", "upbeat"],
+    "tags": [
+      "modern",
+      "upbeat"
+    ],
     "previewUrl": "/Yarin Primak - Buss It - Loop.wav"
   },
   {
     "id": 16,
     "title": "DREEEAAAMS",
     "artist": "Yarin Primak",
-    "duration": "?:??",
+    "duration": "2:46",
     "bpm": 72,
-    "tags": ["cinematic", "luxury"],
+    "tags": [
+      "cinematic",
+      "luxury"
+    ],
     "previewUrl": "/Yarin Primak - DREEEAAAMS.wav"
   },
   {
     "id": 17,
     "title": "SIREN",
     "artist": "Ziskoe",
-    "duration": "?:??",
+    "duration": "2:34",
     "bpm": 105,
-    "tags": ["modern", "cinematic"],
+    "tags": [
+      "modern",
+      "cinematic"
+    ],
     "previewUrl": "/Ziskoe - SIREN - Ziskoe Remix.wav"
   }
 ]
