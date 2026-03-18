@@ -1,110 +1,155 @@
 [
   {
     "id": 1,
-    "title": "Pacific Heights",
-    "artist": "Nolan James",
-    "duration": "1:02",
-    "bpm": 72,
+    "title": "All That Matters",
+    "artist": "Assaf Ayalon",
+    "duration": "?:??",
+    "bpm": 75,
     "tags": ["cinematic", "warm"],
-    "previewUrl": "REPLACE_WITH_ARTLIST_PREVIEW_URL"
+    "previewUrl": "/Assaf Ayalon - All That Matters - Short version.wav"
   },
   {
     "id": 2,
-    "title": "Golden Hour Drive",
-    "artist": "Maren Soleil",
-    "duration": "1:15",
-    "bpm": 88,
-    "tags": ["upbeat", "warm"],
-    "previewUrl": "REPLACE_WITH_ARTLIST_PREVIEW_URL"
+    "title": "Go Down",
+    "artist": "BLAGE",
+    "duration": "?:??",
+    "bpm": 90,
+    "tags": ["upbeat", "modern"],
+    "previewUrl": "/BLAGE - Go Down.wav"
   },
   {
     "id": 3,
-    "title": "Still Water",
-    "artist": "Theo Callum",
-    "duration": "1:08",
-    "bpm": 64,
+    "title": "End Down",
+    "artist": "Captain Joz",
+    "duration": "?:??",
+    "bpm": 80,
     "tags": ["calm", "cinematic"],
-    "previewUrl": "REPLACE_WITH_ARTLIST_PREVIEW_URL"
+    "previewUrl": "/Captain Joz - End Down - Loop.wav"
   },
   {
     "id": 4,
-    "title": "Urban Canvas",
-    "artist": "Felix Ray",
-    "duration": "0:58",
+    "title": "Dulce de Leche",
+    "artist": "DJ-Malka",
+    "duration": "?:??",
     "bpm": 95,
-    "tags": ["upbeat", "modern"],
-    "previewUrl": "REPLACE_WITH_ARTLIST_PREVIEW_URL"
+    "tags": ["warm", "upbeat"],
+    "previewUrl": "/DJ-Malka - Dulce de Leche - Loop.wav"
   },
   {
     "id": 5,
-    "title": "Coastal Morning",
-    "artist": "Nolan James",
-    "duration": "1:10",
-    "bpm": 76,
-    "tags": ["calm", "warm"],
-    "previewUrl": "REPLACE_WITH_ARTLIST_PREVIEW_URL"
+    "title": "Reminiscence",
+    "artist": "FableForte",
+    "duration": "?:??",
+    "bpm": 68,
+    "tags": ["cinematic", "calm"],
+    "previewUrl": "/FableForte - Reminiscence - Short version.wav"
   },
   {
     "id": 6,
-    "title": "Ember & Glass",
-    "artist": "Lena Voss",
-    "duration": "1:20",
-    "bpm": 68,
-    "tags": ["cinematic", "luxury"],
-    "previewUrl": "REPLACE_WITH_ARTLIST_PREVIEW_URL"
+    "title": "Come Again",
+    "artist": "feinsmecker",
+    "duration": "?:??",
+    "bpm": 85,
+    "tags": ["warm", "upbeat"],
+    "previewUrl": "/feinsmecker - Come Again.wav"
   },
   {
     "id": 7,
-    "title": "First Light",
-    "artist": "Maren Soleil",
-    "duration": "1:05",
-    "bpm": 80,
-    "tags": ["warm", "upbeat"],
-    "previewUrl": "REPLACE_WITH_ARTLIST_PREVIEW_URL"
+    "title": "Damn Thats Crazy",
+    "artist": "Flint",
+    "duration": "?:??",
+    "bpm": 100,
+    "tags": ["modern", "upbeat"],
+    "previewUrl": "/Flint - damn thats crazy - Alternative version.wav"
   },
   {
     "id": 8,
-    "title": "Blueprint",
-    "artist": "Felix Ray",
-    "duration": "0:55",
-    "bpm": 100,
-    "tags": ["modern", "upbeat"],
-    "previewUrl": "REPLACE_WITH_ARTLIST_PREVIEW_URL"
+    "title": "Funky Golden Sun",
+    "artist": "Jimit",
+    "duration": "?:??",
+    "bpm": 88,
+    "tags": ["upbeat", "warm"],
+    "previewUrl": "/Jimit - Funky Golden Sun.wav"
   },
   {
     "id": 9,
-    "title": "Velvet Sky",
-    "artist": "Lena Voss",
-    "duration": "1:18",
-    "bpm": 60,
-    "tags": ["luxury", "cinematic"],
-    "previewUrl": "REPLACE_WITH_ARTLIST_PREVIEW_URL"
+    "title": "Fall for the Rhythm",
+    "artist": "O P Baron feat. The Hazelnuts",
+    "duration": "?:??",
+    "bpm": 92,
+    "tags": ["upbeat", "modern"],
+    "previewUrl": "/O P Baron - Fall for the Rhythm feat The Hazelnuts.wav"
   },
   {
     "id": 10,
-    "title": "Open Roads",
-    "artist": "Theo Callum",
-    "duration": "1:12",
-    "bpm": 84,
-    "tags": ["upbeat", "warm"],
-    "previewUrl": "REPLACE_WITH_ARTLIST_PREVIEW_URL"
+    "title": "SEXY",
+    "artist": "Oddity",
+    "duration": "?:??",
+    "bpm": 96,
+    "tags": ["modern", "luxury"],
+    "previewUrl": "/Oddity - SEXY.wav"
   },
   {
     "id": 11,
-    "title": "Quiet Room",
-    "artist": "Nolan James",
-    "duration": "1:00",
-    "bpm": 58,
-    "tags": ["calm", "luxury"],
-    "previewUrl": "REPLACE_WITH_ARTLIST_PREVIEW_URL"
+    "title": "Park Avenue",
+    "artist": "Paper Planes",
+    "duration": "?:??",
+    "bpm": 78,
+    "tags": ["luxury", "cinematic"],
+    "previewUrl": "/Paper Planes - Park Avenue.wav"
   },
   {
     "id": 12,
-    "title": "Skyline & Stone",
-    "artist": "Maren Soleil",
-    "duration": "1:25",
-    "bpm": 92,
+    "title": "Windbird",
+    "artist": "Roie Shpigler",
+    "duration": "?:??",
+    "bpm": 65,
+    "tags": ["calm", "cinematic"],
+    "previewUrl": "/Roie Shpigler - Windbird - Short version b.wav"
+  },
+  {
+    "id": 13,
+    "title": "Calpirinha",
+    "artist": "Semo",
+    "duration": "?:??",
+    "bpm": 82,
+    "tags": ["warm", "upbeat"],
+    "previewUrl": "/Semo - Calpirinha.wav"
+  },
+  {
+    "id": 14,
+    "title": "Martha",
+    "artist": "Swirling Ship",
+    "duration": "?:??",
+    "bpm": 70,
+    "tags": ["calm", "warm"],
+    "previewUrl": "/Swirling Ship - Martha.wav"
+  },
+  {
+    "id": 15,
+    "title": "Buss It",
+    "artist": "Yarin Primak",
+    "duration": "?:??",
+    "bpm": 98,
+    "tags": ["modern", "upbeat"],
+    "previewUrl": "/Yarin Primak - Buss It - Loop.wav"
+  },
+  {
+    "id": 16,
+    "title": "DREEEAAAMS",
+    "artist": "Yarin Primak",
+    "duration": "?:??",
+    "bpm": 72,
+    "tags": ["cinematic", "luxury"],
+    "previewUrl": "/Yarin Primak - DREEEAAAMS.wav"
+  },
+  {
+    "id": 17,
+    "title": "SIREN",
+    "artist": "Ziskoe",
+    "duration": "?:??",
+    "bpm": 105,
     "tags": ["modern", "cinematic"],
-    "previewUrl": "REPLACE_WITH_ARTLIST_PREVIEW_URL"
+    "previewUrl": "/Ziskoe - SIREN - Ziskoe Remix.wav"
   }
 ]
