@@ -201,5 +201,19 @@
       "upbeat"
     ],
     "previewUrl": "/Dulce de Leche - DJ Malka.wav"
+  },
+  {
+    "id": 18,
+    "title": "Fall for the Rhythm (feat. The Hazelnuts)",
+    "artist": "O P Baron",
+    "duration": "3:09",
+    "bpm": 102,
+    "tags": [
+      "warm",
+      "calm",
+      "luxury",
+      "oldschool"
+    ],
+    "previewUrl": "/Fall for the Rhythm feat The Hazelnuts.wav"
   }
 ]
