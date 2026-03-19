@@ -251,5 +251,17 @@
       "modern"
     ],
     "previewUrl": "/Move That - Feinsmecker.wav"
+  },
+  {
+    "id": 22,
+    "title": "SEXY",
+    "artist": "Odelly",
+    "duration": "2:12",
+    "bpm": 186,
+    "tags": [
+      "modern",
+      "luxury"
+    ],
+    "previewUrl": "/Odelly Sexy.wav"
   }
 ]
