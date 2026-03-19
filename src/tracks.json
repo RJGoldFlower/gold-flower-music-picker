@@ -228,5 +228,17 @@
       "modern"
     ],
     "previewUrl": "/Funky Golden Sun.wav"
+  },
+  {
+    "id": 20,
+    "title": "Go Down",
+    "artist": "BLAGE",
+    "duration": "2:39",
+    "bpm": 136,
+    "tags": [
+      "modern",
+      "upbeat"
+    ],
+    "previewUrl": "/Go Down - BLAGE.wav"
   }
 ]
