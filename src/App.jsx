@@ -2,10 +2,9 @@ import { useState, useRef, useEffect } from 'react'
 import tracks from './tracks.json'
 import TrackCard from './components/TrackCard.jsx'
 
-// TODO: Replace with your Formspree form endpoint
-// 1. Go to https://formspree.io → New Form → copy the endpoint URL
-// 2. Paste it here
-const FORMSPREE_ENDPOINT = 'https://formspree.io/f/mzdjypba'
+// Submission endpoint — set VITE_SUBMIT_URL in .env (or Vercel env vars) to point
+// to the deployed admin server. Falls back to localhost for local development.
+const SUBMIT_URL = import.meta.env.VITE_SUBMIT_URL || '/api/submit'
 
 const ALL_TAGS = ['all', ...Array.from(new Set(tracks.flatMap(t => t.tags))).sort()]
 
@@ -50,27 +49,55 @@ export default function App() {
   const [notes, setNotes] = useState('')
 
   const audioRef = useRef(null)
+  const previewEndRef = useRef(null)
 
   // Set up audio event listeners
   useEffect(() => {
     const audio = new Audio()
     audioRef.current = audio
 
+    const PREVIEW_DURATION = 10
+
+    const handleLoadedMetadata = () => {
+      const dur = audio.duration
+      if (!dur) return
+      // Seek to middle minus half preview window, clamped to valid range
+      const startAt = Math.max(0, Math.min(dur / 2 - PREVIEW_DURATION / 2, dur - PREVIEW_DURATION))
+      audio.currentTime = startAt
+      previewEndRef.current = startAt + Math.min(PREVIEW_DURATION, dur)
+    }
+
     const handleTimeUpdate = () => {
       if (!audio.duration) return
-      const pct = (audio.currentTime / audio.duration) * 100
+      // Stop when preview window ends
+      if (previewEndRef.current !== null && audio.currentTime >= previewEndRef.current) {
+        audio.pause()
+        setProgress(prev => ({ ...prev, [audio._trackId]: 0 }))
+        setPlayingId(null)
+        previewEndRef.current = null
+        return
+      }
+      // Progress relative to preview window
+      const previewStart = previewEndRef.current !== null
+        ? previewEndRef.current - Math.min(PREVIEW_DURATION, audio.duration)
+        : 0
+      const elapsed = audio.currentTime - previewStart
+      const pct = Math.min(100, (elapsed / PREVIEW_DURATION) * 100)
       setProgress(prev => ({ ...prev, [audio._trackId]: pct }))
     }
 
     const handleEnded = () => {
       setProgress(prev => ({ ...prev, [audio._trackId]: 0 }))
       setPlayingId(null)
+      previewEndRef.current = null
     }
 
+    audio.addEventListener('loadedmetadata', handleLoadedMetadata)
     audio.addEventListener('timeupdate', handleTimeUpdate)
     audio.addEventListener('ended', handleEnded)
 
     return () => {
+      audio.removeEventListener('loadedmetadata', handleLoadedMetadata)
       audio.removeEventListener('timeupdate', handleTimeUpdate)
       audio.removeEventListener('ended', handleEnded)
       audio.pause()
@@ -93,6 +120,7 @@ export default function App() {
     } else {
       // Switch to new track
       audio.pause()
+      previewEndRef.current = null
       audio.src = track.previewUrl
       audio._trackId = track.id
       audio.load()
@@ -142,7 +170,7 @@ export default function App() {
       : `"${selectedTrackObj.title}" by ${selectedTrackObj.artist}`
 
     try {
-      const res = await fetch(FORMSPREE_ENDPOINT, {
+      const res = await fetch(SUBMIT_URL, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
         body: JSON.stringify({ firstName, lastName, email, phone, address, notes, musicSelection }),
