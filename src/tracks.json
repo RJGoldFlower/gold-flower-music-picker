@@ -4,7 +4,7 @@
     "title": "Premiere Creative Cut Minimal",
     "artist": "Adrián Berenguer",
     "duration": "0:50",
-    "bpm": 0,
+    "bpm": 169,
     "tags": [
       "cinematic",
       "modern"
@@ -16,7 +16,7 @@
     "title": "Clarity",
     "artist": "Roie Shpigler",
     "duration": "0:58",
-    "bpm": 0,
+    "bpm": 149,
     "tags": [
       "cinematic",
       "calm"
@@ -28,7 +28,7 @@
     "title": "Down on Me",
     "artist": "ZISO",
     "duration": "0:49",
-    "bpm": 0,
+    "bpm": 145,
     "tags": [
       "warm",
       "cinematic"
@@ -40,7 +40,7 @@
     "title": "Earth Creative Cut Minimal",
     "artist": "Naama Zafran",
     "duration": "0:47",
-    "bpm": 0,
+    "bpm": 199,
     "tags": [
       "cinematic",
       "calm"
@@ -52,7 +52,7 @@
     "title": "Cup o' Joe",
     "artist": "Just for Kicks",
     "duration": "0:49",
-    "bpm": 0,
+    "bpm": 170,
     "tags": [
       "warm",
       "upbeat"
@@ -64,7 +64,7 @@
     "title": "Teacup",
     "artist": "Just for Kicks",
     "duration": "0:43",
-    "bpm": 0,
+    "bpm": 113,
     "tags": [
       "calm",
       "warm"
@@ -76,7 +76,7 @@
     "title": "Out of Flux",
     "artist": "Out of Flux",
     "duration": "1:00",
-    "bpm": 0,
+    "bpm": 145,
     "tags": [
       "modern",
       "cinematic"
@@ -88,7 +88,7 @@
     "title": "Human",
     "artist": "Rex Banner",
     "duration": "0:48",
-    "bpm": 0,
+    "bpm": 150,
     "tags": [
       "cinematic",
       "modern"
@@ -100,7 +100,7 @@
     "title": "Sigma Funk",
     "artist": "dannyminus",
     "duration": "0:47",
-    "bpm": 0,
+    "bpm": 109,
     "tags": [
       "upbeat",
       "modern"
@@ -112,7 +112,7 @@
     "title": "Tethered to the Sky",
     "artist": "Danny Shields",
     "duration": "0:43",
-    "bpm": 0,
+    "bpm": 121,
     "tags": [
       "cinematic",
       "calm"
@@ -124,7 +124,7 @@
     "title": "Tik Tok",
     "artist": "Ziskoe",
     "duration": "0:46",
-    "bpm": 0,
+    "bpm": 135,
     "tags": [
       "modern",
       "upbeat"
@@ -136,7 +136,7 @@
     "title": "Sparkling Water",
     "artist": "ZISO",
     "duration": "0:57",
-    "bpm": 0,
+    "bpm": 135,
     "tags": [
       "calm",
       "luxury"
@@ -145,8 +145,8 @@
   },
   {
     "id": 13,
-    "title": "All That Matters - Assaf Ayalon",
-    "artist": "",
+    "title": "All That Matters",
+    "artist": "Assaf Ayalon",
     "duration": "3:01",
     "bpm": 122,
     "tags": [
@@ -157,8 +157,8 @@
   },
   {
     "id": 14,
-    "title": "Buss It by Yarin Primak",
-    "artist": "",
+    "title": "Buss It",
+    "artist": "Yarin Primak",
     "duration": "2:06",
     "bpm": 102,
     "tags": [
@@ -266,8 +266,8 @@
   },
   {
     "id": 23,
-    "title": "Paper Planes Ocean Avenue",
-    "artist": "",
+    "title": "Ocean Avenue",
+    "artist": "Paper Planes",
     "duration": "0:45",
     "bpm": 144,
     "tags": [
@@ -291,8 +291,8 @@
   },
   {
     "id": 25,
-    "title": "Siren Song by Zac Nelson",
-    "artist": "",
+    "title": "Siren Song",
+    "artist": "Zac Nelson",
     "duration": "2:19",
     "bpm": 192,
     "tags": [
@@ -304,8 +304,8 @@
   },
   {
     "id": 26,
-    "title": "Swirling Ship - Martha",
-    "artist": "",
+    "title": "Martha",
+    "artist": "Swirling Ship",
     "duration": "0:48",
     "bpm": 0,
     "tags": [
