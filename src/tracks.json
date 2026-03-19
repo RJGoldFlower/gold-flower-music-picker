@@ -1,212 +1,158 @@
 [
   {
     "id": 1,
-    "title": "All That Matters",
-    "artist": "Assaf Ayalon",
-    "duration": "0:05",
-    "bpm": 122,
+    "title": "Premiere Creative Cut Minimal",
+    "artist": "Adrián Berenguer",
+    "duration": "0:50",
+    "bpm": 0,
     "tags": [
-      "modern",
-      "upbeat"
+      "cinematic",
+      "modern"
     ],
-    "previewUrl": "/Assaf Ayalon - All That Matters - Short version.wav"
+    "previewUrl": "/Adrian Berenguer Premiere Creative Cut Minimal.wav"
   },
   {
     "id": 2,
-    "title": "Go Down",
-    "artist": "BLAGE",
-    "duration": "0:03",
-    "bpm": 136,
+    "title": "Clarity",
+    "artist": "Roie Shpigler",
+    "duration": "0:58",
+    "bpm": 0,
     "tags": [
-      "upbeat",
-      "modern"
+      "cinematic",
+      "calm"
     ],
-    "previewUrl": "/BLAGE - Go Down.wav"
+    "previewUrl": "/Clarity Short Version by Roie Shpigler (1).wav"
   },
   {
     "id": 3,
-    "title": "End Down",
-    "artist": "Captain Joz",
-    "duration": "0:03",
-    "bpm": 151,
+    "title": "Down on Me",
+    "artist": "ZISO",
+    "duration": "0:49",
+    "bpm": 0,
     "tags": [
-      "upbeat",
-      "modern"
-    ],
-    "previewUrl": "/Captain Joz - End Down - Loop.wav"
-  },
-  {
-    "id": 4,
-    "title": "Dulce de Leche",
-    "artist": "DJ-Malka",
-    "duration": "0:03",
-    "bpm": 101,
-    "tags": [
-      "upbeat",
-      "modern"
-    ],
-    "previewUrl": "/DJ-Malka - Dulce de Leche - Loop.wav"
-  },
-  {
-    "id": 5,
-    "title": "Reminiscence",
-    "artist": "FableForte",
-    "duration": "0:03",
-    "bpm": 169,
-    "tags": [
-      "cinematic",
-      "luxury"
-    ],
-    "previewUrl": "/FableForte - Reminiscence - Short version.wav"
-  },
-  {
-    "id": 6,
-    "title": "Come Again",
-    "artist": "feinsmecker",
-    "duration": "0:03",
-    "bpm": 123,
-    "tags": [
-      "warm",
-      "upbeat"
-    ],
-    "previewUrl": "/feinsmecker - Come Again.wav"
-  },
-  {
-    "id": 7,
-    "title": "Damn Thats Crazy",
-    "artist": "Flint",
-    "duration": "0:02",
-    "bpm": 180,
-    "tags": [
-      "cinematic",
-      "modern"
-    ],
-    "previewUrl": "/Flint - damn thats crazy - Alternative version.wav"
-  },
-  {
-    "id": 8,
-    "title": "Funky Golden Sun",
-    "artist": "Jimit",
-    "duration": "0:03",
-    "bpm": 151,
-    "tags": [
-      "upbeat",
-      "warm"
-    ],
-    "previewUrl": "/Jimit - Funky Golden Sun.wav"
-  },
-  {
-    "id": 9,
-    "title": "Fall for the Rhythm",
-    "artist": "O P Baron feat. The Hazelnuts",
-    "duration": "0:03",
-    "bpm": 109,
-    "tags": [
-      "upbeat",
-      "warm",
-      "calm",
-      "luxury"
-    ],
-    "previewUrl": "/O P Baron - Fall for the Rhythm feat The Hazelnuts.wav"
-  },
-  {
-    "id": 10,
-    "title": "SEXY",
-    "artist": "Odelly",
-    "duration": "0:03",
-    "bpm": 186,
-    "tags": [
-      "modern",
-      "luxury",
-      "calm"
-    ],
-    "previewUrl": "/Odelly - SEXY.wav"
-  },
-  {
-    "id": 11,
-    "title": "Ocean Avenue",
-    "artist": "Paper Planes",
-    "duration": "0:03",
-    "bpm": 98,
-    "tags": [
-      "cinematic",
-      "calm",
-      "warm"
-    ],
-    "previewUrl": "/Paper Planes - Ocean Avenue.wav"
-  },
-  {
-    "id": 12,
-    "title": "Windbird",
-    "artist": "Roie Shpigler",
-    "duration": "0:02",
-    "bpm": 136,
-    "tags": [
-      "cinematic",
-      "warm"
-    ],
-    "previewUrl": "/Roie Shpigler - Windbird - Short version b.wav"
-  },
-  {
-    "id": 13,
-    "title": "Calpirinha",
-    "artist": "Semo",
-    "duration": "0:03",
-    "bpm": 170,
-    "tags": [
-      "warm",
-      "upbeat"
-    ],
-    "previewUrl": "/Semo - Caipirinha.wav"
-  },
-  {
-    "id": 14,
-    "title": "Martha",
-    "artist": "Swirling Ship",
-    "duration": "0:03",
-    "bpm": 70,
-    "tags": [
-      "calm",
       "warm",
       "cinematic"
     ],
-    "previewUrl": "/Swirling Ship - Martha.wav"
+    "previewUrl": "/Down on Me Short Version.wav"
   },
   {
-    "id": 15,
-    "title": "Buss It",
-    "artist": "Yarin Primak",
-    "duration": "0:02",
-    "bpm": 136,
+    "id": 4,
+    "title": "Earth Creative Cut Minimal",
+    "artist": "Naama Zafran",
+    "duration": "0:47",
+    "bpm": 0,
     "tags": [
-      "modern",
+      "cinematic",
+      "calm"
+    ],
+    "previewUrl": "/Earth Creative Cut Minimal.wav"
+  },
+  {
+    "id": 5,
+    "title": "Cup o' Joe",
+    "artist": "Just for Kicks",
+    "duration": "0:49",
+    "bpm": 0,
+    "tags": [
+      "warm",
       "upbeat"
     ],
-    "previewUrl": "/Yarin Primak - Buss It - Loop.wav"
+    "previewUrl": "/Just for Kicks - Cup o Joe.wav"
   },
   {
-    "id": 16,
-    "title": "DREEEAAAMS",
-    "artist": "Yarin Primak",
-    "duration": "0:02",
-    "bpm": 180,
+    "id": 6,
+    "title": "Teacup",
+    "artist": "Just for Kicks",
+    "duration": "0:43",
+    "bpm": 0,
+    "tags": [
+      "calm",
+      "warm"
+    ],
+    "previewUrl": "/Just for Kicks - Teacup.wav"
+  },
+  {
+    "id": 7,
+    "title": "Out of Flux",
+    "artist": "Out of Flux",
+    "duration": "1:00",
+    "bpm": 0,
+    "tags": [
+      "modern",
+      "cinematic"
+    ],
+    "previewUrl": "/Out of Flux Short Version.wav"
+  },
+  {
+    "id": 8,
+    "title": "Human",
+    "artist": "Rex Banner",
+    "duration": "0:48",
+    "bpm": 0,
+    "tags": [
+      "cinematic",
+      "modern"
+    ],
+    "previewUrl": "/Rex Banner Human Short Version.wav"
+  },
+  {
+    "id": 9,
+    "title": "Sigma Funk",
+    "artist": "dannyminus",
+    "duration": "0:47",
+    "bpm": 0,
     "tags": [
       "upbeat",
-      "modern",
-      "luxury"
+      "modern"
     ],
-    "previewUrl": "/Yarin Primak - DREEEAAAMS.wav"
+    "previewUrl": "/Sigma Funk Alternative Version.wav"
   },
   {
-    "id": 17,
-    "title": "SIREN",
+    "id": 10,
+    "title": "Tethered to the Sky",
+    "artist": "Danny Shields",
+    "duration": "0:43",
+    "bpm": 0,
+    "tags": [
+      "cinematic",
+      "calm"
+    ],
+    "previewUrl": "/Tethered to the Sky Short Version.wav"
+  },
+  {
+    "id": 11,
+    "title": "Tik Tok",
     "artist": "Ziskoe",
-    "duration": "0:02",
-    "bpm": 141,
+    "duration": "0:46",
+    "bpm": 0,
     "tags": [
       "modern",
       "upbeat"
     ],
-    "previewUrl": "/Ziskoe - SIREN - Ziskoe Remix.wav"
+    "previewUrl": "/Ziskoe Tik Tok Short Version.wav"
+  },
+  {
+    "id": 12,
+    "title": "Sparkling Water",
+    "artist": "ZISO",
+    "duration": "0:57",
+    "bpm": 0,
+    "tags": [
+      "calm",
+      "luxury"
+    ],
+    "previewUrl": "/ZISO Sparkling Water.wav"
+  },
+  {
+    "id": 13,
+    "title": "All That Matters - Assaf Ayalon",
+    "artist": "",
+    "duration": "3:01",
+    "bpm": 122,
+    "tags": [
+      "upbeat",
+      "modern"
+    ],
+    "previewUrl": "/All That Matters - Assaf Ayalon.wav"
   }
 ]
