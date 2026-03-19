@@ -275,5 +275,18 @@
       "calm"
     ],
     "previewUrl": "/Paper Planes Ocean Avenue.wav"
+  },
+  {
+    "id": 24,
+    "title": "Windbird",
+    "artist": "Roie Shpigler",
+    "duration": "3:14",
+    "bpm": 110,
+    "tags": [
+      "calm",
+      "cinematic",
+      "warm"
+    ],
+    "previewUrl": "/Roie Shpigler Windbird.wav"
   }
 ]
