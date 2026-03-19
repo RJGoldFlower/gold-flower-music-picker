@@ -189,5 +189,17 @@
       "modern"
     ],
     "previewUrl": "/Come Again - Feinsmecker (1).wav"
+  },
+  {
+    "id": 17,
+    "title": "Dulce de Leche",
+    "artist": "DJ-Malka",
+    "duration": "2:01",
+    "bpm": 131,
+    "tags": [
+      "modern",
+      "upbeat"
+    ],
+    "previewUrl": "/Dulce de Leche - DJ Malka.wav"
   }
 ]
