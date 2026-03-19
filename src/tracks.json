@@ -215,5 +215,18 @@
       "oldschool"
     ],
     "previewUrl": "/Fall for the Rhythm feat The Hazelnuts.wav"
+  },
+  {
+    "id": 19,
+    "title": "Funky Golden Sun",
+    "artist": "Jimit",
+    "duration": "1:55",
+    "bpm": 150,
+    "tags": [
+      "funky",
+      "upbeat",
+      "modern"
+    ],
+    "previewUrl": "/Funky Golden Sun.wav"
   }
 ]
